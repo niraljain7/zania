@@ -1,0 +1,17 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# Distribution / packaging
+*.egg-info/
+*.dist-info/
+
+# IDE/editor folders (optional, depending on the tools you're using)
+.vscode/
+.idea/
+
+.env
